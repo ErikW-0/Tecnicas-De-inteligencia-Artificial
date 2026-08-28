@@ -3,3 +3,6 @@ Registro de apuntes y actividades correspondientes a la primera sesión de clase
 
 dia 2
 Implementación y notas relativas a la segunda sesión. Se introdujeron los conceptos fundamentales del perceptrón, analizando su arquitectura básica, modelo de activación y su aplicación dentro del ámbito de las redes neuronales artificiales.
+ 
+dia 3
+Actualización correspondiente a la tercera clase. Se revisó la función de Ackley (Ackley function), explorando sus propiedades matemáticas, su gráfica y su uso como función de prueba (benchmark) en problemas de optimización.
