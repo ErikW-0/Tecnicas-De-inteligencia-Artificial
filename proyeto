@@ -7,3 +7,7 @@ La recogida de menores depende del reconocimiento visual del personal, propenso 
 ## Justificación
 
 Se propone un sistema de reconocimiento facial que verifique automáticamente al tutor y notifique en tiempo real, reduciendo el error humano y dejando un registro auditable de cada entrega.
+
+## Metodología
+
+Se seguirá una metodología ágil (Scrum), en etapas: análisis de requerimientos, diseño de la arquitectura y base de datos, desarrollo del backend y del módulo de reconocimiento facial, pruebas de precisión, y documentación final.
