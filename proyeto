@@ -11,3 +11,11 @@ Se propone un sistema de reconocimiento facial que verifique automáticamente al
 ## Metodología
 
 Se seguirá una metodología ágil (Scrum), en etapas: análisis de requerimientos, diseño de la arquitectura y base de datos, desarrollo del backend y del módulo de reconocimiento facial, pruebas de precisión, y documentación final.
+
+## Herramientas y tecnologías
+
+- Backend: PHP (MVC) + MySQL
+- Reconocimiento facial: OpenCV + embeddings faciales
+- Captura: cámara web / ESP32-CAM
+- Notificaciones: consulta a base de datos en tiempo real, con opción de WhatsApp/correo
+- Control de versiones: Git y GitHub
