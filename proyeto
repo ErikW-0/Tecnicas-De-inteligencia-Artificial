@@ -1,0 +1,9 @@
+# Sistema de Autenticación Biométrica Facial para la Gestión Segura de Recogida de Menores
+
+## Planteamiento del problema
+
+La recogida de menores depende del reconocimiento visual del personal, propenso a errores y sin garantizar que el niño sea entregado a alguien autorizado. Tampoco existe forma de que el alumno sepa cuándo llegó su tutor.
+
+## Justificación
+
+Se propone un sistema de reconocimiento facial que verifique automáticamente al tutor y notifique en tiempo real, reduciendo el error humano y dejando un registro auditable de cada entrega.
